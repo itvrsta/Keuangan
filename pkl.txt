@@ -1,0 +1,4 @@
+1. Home
+1. Pendanaan = tanggal + uraian + nominal
+2. Pengeluaran = tanggal + uraian + nominal
+
